@@ -401,7 +401,7 @@ document.getElementById('btnExportar').addEventListener("click",function(e){
     console.log(json1)
     saveAs(file) 
 
-    moveFile()
+
 })
 
 // var corsAttr = new EnableCorsAttribute("*", "*", "*")
